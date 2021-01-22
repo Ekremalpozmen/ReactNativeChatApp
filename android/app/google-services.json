@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883764321723",
+    "project_id": "denemechat-78583",
+    "storage_bucket": "denemechat-78583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883764321723:android:e8269fc1a65e48db5d389e",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883764321723-vhcr29lvfds3reok7ol4bjmoeien8k88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIVN7a2-qjQTsU_9Jr0KmIs66Kz_fBJP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883764321723-vhcr29lvfds3reok7ol4bjmoeien8k88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
